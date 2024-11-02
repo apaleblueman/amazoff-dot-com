@@ -1,0 +1,8 @@
+Model Information:
+* title:	Detective hat
+* source:	https://sketchfab.com/3d-models/detective-hat-97c5519088c7497e8e56455035d347cd
+* author:	Sousinho (https://sketchfab.com/sousinho)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

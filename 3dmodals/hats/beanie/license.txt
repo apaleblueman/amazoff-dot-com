@@ -1,0 +1,8 @@
+Model Information:
+* title:	Black street hat
+* source:	https://sketchfab.com/3d-models/black-street-hat-2df8787e2bc74cd18c1f366603f227bf
+* author:	assetfactory (https://sketchfab.com/assetfactory)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
