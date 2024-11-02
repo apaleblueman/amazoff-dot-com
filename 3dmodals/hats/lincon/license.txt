@@ -1,0 +1,8 @@
+Model Information:
+* title:	Top Hat
+* source:	https://sketchfab.com/3d-models/top-hat-7d21e247bc374cce93f5248501a974ee
+* author:	assetfactory (https://sketchfab.com/assetfactory)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
