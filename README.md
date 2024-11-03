@@ -10,5 +10,7 @@
 ## screenshots
 
 ![s1](./media/Screenshot1.png)
+
 ![s2](./media/Screenshot2.png)
-![s2](./media/demo.gif)
+
+![s3](./media/demo.gif)
