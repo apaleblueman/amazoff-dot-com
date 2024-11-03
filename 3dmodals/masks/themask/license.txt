@@ -1,0 +1,11 @@
+Model Information:
+* title:	Loki mask from "The Mask" 1994 movie
+* source:	https://sketchfab.com/3d-models/loki-mask-from-the-mask-1994-movie-0741405f9d9942e292dc1d0eb20fa815
+* author:	Diyarov Alen (https://sketchfab.com/diyarovalen)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Loki mask from "The Mask" 1994 movie" (https://sketchfab.com/3d-models/loki-mask-from-the-mask-1994-movie-0741405f9d9942e292dc1d0eb20fa815) by Diyarov Alen (https://sketchfab.com/diyarovalen) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
