@@ -1,2 +1,5 @@
+masks/batman/_x1 filter=lfs diff=lfs merge=lfs -text
+masks/clown/_x1 filter=lfs diff=lfs merge=lfs -text
+masks/themask/_x1 filter=lfs diff=lfs merge=lfs -text
 /masks/* filter=lfs diff=lfs merge=lfs -text
 masks/* filter=lfs diff=lfs merge=lfs -text
