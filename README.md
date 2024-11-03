@@ -13,4 +13,4 @@
 
 ![s2](./media/Screenshot2.png)
 
-![s3](./media/demo.gif)
+<img src="./media/demo.gif">
